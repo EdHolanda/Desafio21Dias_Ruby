@@ -1,0 +1,7 @@
+colocar saudação
+digitar o nome do cliente
+digitar o nome do produto
+digitar o valor
+oferecer mais um produto
+caso sim, dar um desconto no total
+exibir as informações
